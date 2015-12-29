@@ -1,7 +1,7 @@
 # Aframe VR javascript framework test
 
 ###Demo
-Demo can be found [Here](http://elixir7.github.io/).
+Demo can be found [Here](http://elixir7.github.io/aframe-testing/).
 ### Installation
 
 First make sure you have Node installed.
